@@ -54404,7 +54404,7 @@ A.IV.prototype={
 k(a){return this.b},
 $ibA:1}
 A.vn.prototype={
-gpH(){return"images/profile.jpeg"},
+gpH(){return"assets/images/profile.jpeg"},
 zc(a){var s,r={},q=a.a
 if(q==null)q=$.pO()
 r.a=r.b=null
